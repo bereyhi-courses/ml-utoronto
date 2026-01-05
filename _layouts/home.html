@@ -122,251 +122,113 @@ layout: default
 
 <h2>Course Syllabus</h2>
 
-<p>The course is given in three parts, namely <em>Fundamentals of Computational Learning</em>, <em>Deep Neural Networks</em>, and <em>Advances in Deep Learning</em>. The contents taught in each part are listed below:</p>
+<p>The course consists of three main parts, namely <em>Learning from Data</em>, <em>Classification and Regression</em>, and <em>Introduction to Advanced Topics in ML</em>. The contents taught in each part are listed below:</p>
+
 <p>
 <div style="background-color: rgba(244, 233, 233, 0.99); padding: 10px;">
-<h3>Part I: Principles of Computational Learning</h3>
+<h3>Part I: Learning from Data</h3>
 <ol>
-  <li><strong>Learning from Data</strong></li>
+  <li><strong>Concept of Learning and Different Problems in ML</strong></li>
+
+  <li><strong>Clustering</strong></li>
   <ul>
-    <li>Data-driven Approaches</li>
-    <li>Concept of Learning</li>
+    <li>Problem of Clustering</li>
+    <li>K-means Clustering Algorithm</li>
+    <li>Notion of Distortion</li>
+    <li>Soft K-means Clustering</li>
   </ul>
-  <li><strong>Basic Definitions</strong></li>
+
+  <li><strong>Learning Data Distribution</strong></li>
   <ul>
-    <li>Types of Learning Tasks</li>
-    <li>Key Components of Computational Learning</li>
-    <ul>
-      <li>Data</li>
-      <li>Model</li>
-      <li>Loss</li>
-    </ul>
-    <li>Neural Networks</li>
-    <ul>
-      <li>Basic Computational Unit: <em>Artificial Neuron</em></li>
-      <li>Perceptron Machine</li>
-      <li>Artificial Neural Networks</li>
-      <li>Deep Neural Networks</li>
-    </ul>
+    <li>Statistical View on Data</li>
+    <li>Modeling Data Distribution via Parameterized Model</li>
+    <li>Maximum Likelihood Learning</li>
+    <li>Gaussian Maximum Likelihood</li>
+    <li>Gaussian Mixture Model</li>
+    <li>Data Generation</li>
   </ul>
-  <li><strong>Learning via Deep Models</strong></li>
+
+  <li><strong>Dimensionality Reduction and Data Representation</strong></li>
   <ul>
-    <li>Universal Approximation Theorem</li>
-    <li>Training Deep Models via Empirical Risk Minimization</li>
-    <li>Inference via Deep Models</li>
-    <li>Building Training Loop via Gradient Descent Algorithm</li>
-    <ul>
-      <li>Review: Function Optimization</li>
-      <li>Review: Gradient Descent Algorithm</li>
-    </ul>
+    <li>Latent Representation for High Dimensional Data</li>
+    <li>Principle Component Analysis (PCA)</li>
+    <li>Data Compression and Filtering via PCA</li>
+    <li>Introduction to Nonlinear PCA</li>
   </ul>
 </ol>
 </div>
 
 <div style="background-color: rgba(246, 250, 246, 0.9); padding: 10px;">
-<h3>Part II: Deep Neural Networks</h3>
+<h3>Part II: Classification and Regression</h3>
 <ol>
-  <li><strong>Fully-connected Feedforward Neural Networks</strong></li>
+  <li><strong>Linear Regression and Classification</strong></li>
   <ul>
-    <li>Deep Multilayer Perceptrons (MLPs)</li>
-    <li>Inference and Training of MLPs</li>
-    <ul>
-      <li>Inference via Forward Propagation</li>
-      <li>Training by Sample Gradients</li>
-      <li>Challenge of Computing Gradient</li>
-    </ul>
-    <li>Backpropagation Algorithm</li>
-    <ul>
-      <li>Computation Graph</li>
-      <li>Computing Gradients on Graphs via Forward and Backward Pass</li>
-      <li>Backward Pass on Basic Vector Operations</li>
-      <li>Backpropagating over MLPs</li>
-      <li>Duality of Forward and Backward Computations in MLPs</li>
-    </ul>
-    <li>Building Training Loop for MLPs</li>
-    <ul>
-      <li>Mini-Batch Stochastic Gradient Descent (SGD)</li>
-      <li>Complexity-Variance Trade-off in SGD</li>
-    </ul>
-    <li>Evaluating Trained Models</li>
-    <ul>
-      <li>Independence of Test and Training Samples</li>
-      <li>Learning Curves and Classic Evaluation Metrics</li>
-    </ul>
-    <li>Examples: Classification and Regression by MLPs</li>
+    <li>Notion of Loss in Supervised Settings</li>
+    <li>Linear Regression: Optimal Model</li>
+    <li>Logistic Regression: Optimal Model</li>
+    <li>Gradient Descent Algorithm</li>
   </ul>
 
-  <li><strong>Advances in Optimization, Model Fitting and Data Preprocessing</strong></li>
+  <li><strong>Support Vector Machine</strong></li>
   <ul>
-    <li>Gradient-based Optimizers</li>
-    <ul>
-      <li>Stabilizing SGD via Learning-Rate Scheduling</li>
-      <li>Momentum and Its Bias-Variance Trade-off</li>
-      <li>Dimension-level Learning-Rate Scheduling: Resilient Backpropagation (Rprop)</li>
-      <li>Dimension-level Scheduling by Momentum: Root Mean Square Propagation (RMSprop)</li>
-      <li>Adaptive Moment Estimation (Adam) Algorithm</li>
-    </ul>
+    <li>Classification with Maximum Margin</li>
+    <li>Support Vector Classifier (SVC)</li>
+    <li>Dimensionality Expansion via Embedding Function</li>
+    <li>Support Vector Machine (SVM)</li>
+    <li>Various Kernels for SVM</li>
+    <li>SVM with Soft Margin</li>
+  </ul>
+
+  <li><strong>Neural Networks</strong></li>
+  <ul>
+    <li>Neural Networks (NNs) as Parameterized Models</li>
+    <li>Necessity of Nonlinearity in (NNs)</li>
+    <li>Expressing Binary Functions via NNs</li>
+    <li>Approximating Analytic Functions via NNs</li>
+    <li>Universal Approximation Theorem</li>
+  </ul>
+
+  <li><strong>Generalization</strong></li>
+  <ul>
+    <li>Formulating Generalization Error</li>
     <li>Overfitting and Underfitting</li>
-    <ul>
-      <li>Concept of Over- and Underfitting</li>
-      <li>Roots of Overfitting: Model Complexity, Data Sufficiency and Co-adaptation</li>
-      <li>Dealing with Overfitting I: Hyperparameter Tuning over Validation Dataset</li>
-      <li>Dealing with Overfitting II: Regularization and Dropout</li>
-    </ul>
-    <li>Statistical Viewpoint on Data</li>
-    <ul>
-      <li>Data Space and Data Distribution</li>
-      <li>Dealing with Overfitting III: Data Augmentation and Synthetic Data Generation</li>
-      <li>Basics of Data Cleaning</li>
-    </ul>
-    <li>Standardization and Normalization</li>
-    <ul>
-      <li>Input Normalization</li>
-      <li>Batch Normalization</li>
-      <li>Layer Normalization</li>
-    </ul>
+    <li>Bias-Variance Trade-off and Bayes Error Bound</li>
+    <li>Regularization and Ensemble Learning</li>
   </ul>
 
-  <li><strong>Convolutional Neural Networks (CNNs)</strong></li>
+  <li><strong>Convolution</strong></li>
   <ul>
-    <li>Locally-Connected Models with Shared Weights</li>
-    <ul>
-      <li>Local Connectivity versus Full Connectivity</li>
-      <li>Computational Models with Shared Parameters</li>
-    </ul>
-    <li>Components of CNNs</li>
-    <ul>
-      <li>Tensor-type Convolution and Convolutional Layer</li>
-      <li>Pooling Layer</li>
-      <li>Upsampling and Downsampling Layers</li>
-    </ul>
-    <li>Building a Custom CNN</li>
-    <ul>
-      <li>Deep CNN for Image Processing</li>
-      <li>Resizing and Normalization</li>
-      <li>Receptive Field and Feature Extraction</li>
-    </ul>
-    <li>Training CNNs</li>
-    <ul>
-      <li>Backpropagation through Convolutional Layer</li>
-      <li>Backpropagation through Pooling Layer</li>
-      <li>Backpropagation through Resampling Layers</li>
-    </ul>
-    <li>Examples of Deep CNNs</li>
-  </ul>
-
-  <li><strong>Residual Learning</strong></li>
-  <ul>
-    <li>ILSVR Challenge: ImageNet</li>
-    <li>Depth Challenge</li>
-    <ul>
-      <li>Vanishing Gradient</li>
-      <li>Exploding Gradient</li>
-    </ul>
-    <li>Residual Learning</li>
-    <ul>
-      <li>Learning Residual Function</li>
-      <li>Skip Connection</li>
-      <li>Concentration Property of Gradient in Residual Learning</li>
-    </ul>
-    <li>Residual Networks (ResNets)</li>
-    <ul>
-      <li>ResNet Units</li>
-      <li>Deep ResNets</li>
-      <li>Short and Long Skip Connections</li>
-    </ul>
-    <li>State-of-the-Art Residual Architectures</li>
-  </ul>
-
-  <li><strong>Recurrent Neural Networks (RNNs)</strong></li>
-  <ul>
-    <li>Sequence Learning by Recurrence</li>
-    <ul>
-      <li>Sequential Data and State-Space Models</li>
-      <li>Building Computational State-Space Models by Recurrence</li>
-      <li>Elman and Jordan Networks</li>
-      <li>Forward Propagation Through Time</li>
-      <li>Deep Recurrent Neural Networks (RNNs)</li>
-    </ul>
-    <li>Training RNNs</li>
-    <ul>
-      <li>Backpropagation Through Time (BPTT)</li>
-      <li>Vanishing and Exploding Gradient in BPTT</li>
-      <li>Truncated BPTT</li>
-    </ul>
-    <li>Concept of Gating</li>
-    <ul>
-      <li>Notion of Gate and Gating Mechanism</li>
-      <li>Building a Computational Gate</li>
-      <li>Gated Architecture I: Gated Recurrent Unit (GRU)</li>
-      <li>Gated Architecture II: Long Short-Term Memory (LSTM)</li>
-    </ul>
-    <li>Bidirectional Sequence Processing</li>
-    <li>Segmentation in Sequence Learning</li>
-    <ul>
-      <li>Pre-segmentation of Data versus Labeling Unsegmented Data</li>
-      <li>Connectionist Temporal Classification (CTC) Method</li>
-    </ul>
+    <li>Convolution as a Linear Operator</li>
+    <li>Designing a Parameterized Model via Convolution</li>
+    <li>Sample Convolutional NN</li>
   </ul>
 </ol>
 </div>
 
 <div style="background-color: rgba(221, 236, 239, 0.99); padding: 10px;">
-<h3>Part III: Advances in Deep Learning</h3>
+<h3>Part III: Advance Topics in ML</h3>
 <ol>
-  <li><strong>Sequence-to-Sequence Models</strong></li>
+  <li><strong>Introduction to Sequence Processing</strong></li>
   <ul>
-    <li>Encoding and Decoding via Computational Models</li>
-    <ul>
-      <li>General Learning Tasks with Sequence Data</li>
-      <li>Learning Universal Context</li>
-    </ul>
-    <li>Basic Language Model</li>
-    <ul>
-      <li>Processing text to tokens</li>
-      <li>Learning to predict next tokens</li>
-    </ul>
-    <li>Neural Machine Translation (NMT)</li>
-    <ul>
-      <li>Basic Translator by RNNs</li>
-      <li>Restricted Memory of Recurrent NMT</li>
-    </ul>
-    <li>Attention Mechanism and Transformer</li>
-    <ul>
-      <li>Attention Mechanism</li>
-      <li>Computational Modeling of Attention: Key and Query Correlation</li>
-      <li>Using Attention for Context Extraction: Cross-Attention</li>
-      <li>Sequence Processing with Attention</li>
-      <li>Multihead Self-Attention</li>
-      <li>Transformer: Encoding-Decoding via Attention</li>
-    </ul>
+    <li>Processing Sequences with Temporal Correlation</li>
+    <li>Quick Introduction to RNNs and Transformers</li>
   </ul>
 
-  <li><strong>Deep Unsupervised Learning</strong></li>
+  <li><strong>Introduction to Generative Models</strong></li>
   <ul>
-    <li>Review: Principle Component Analysis (PCA)</li>
-    <li>Autoencoding</li>
-    <ul>
-      <li>Nonlinear PCA by Computational Models</li>
-      <li>Notion of Latent Representation</li>
-      <li>Autoencoders</li>
-    </ul>
-    <li>Training Autoencoders</li>
-    <ul>
-      <li>Training Vanilla Autoencoder</li>
-      <li>Training Denoising Autoencoder</li>
-      <li>Constraining Latent Representation by Regularization</li>
-    </ul>
-    <li>Data Generation by Autoencoders</li>
-    <ul>
-      <li>Naive Generative Model by Vanilla Autoencoder</li>
-      <li>Variational Autoencoders (VAE)</li>
-      <li>Training and Sampling VAEs</li>
-    </ul>
+    <li>Learning How to Generate Data</li>
+    <li>Implicit and Explicit Generative Models</li>
+  </ul>
+
+  <li><strong>Introduction to Reinforcement Learning</strong></li>
+  <ul>
+    <li>Components and Objectives in Reinforcement Learning (RL)</li>
+    <li>Tabular RL versus RL with Function Approximation</li>
   </ul>
 </ol>
 </div>
 </p>
+
 
 
 <h2>Course Evaluation</h2>
