@@ -98,9 +98,9 @@ The following are guidelines that help you organize the project and meet expecta
 
 
 ## Templates for Proposal, Report and Presentation
-* [Proposal Template]({{site.baseurl}}/assets/Project_Materials/Proposal_Template.zip) This is the template for project proposal. You _can_ use other template as well
-* [Report Template - LaTex]({{site.baseurl}}/assets/Project_Materials/Project_Report_Template.zip): Other templates are __not__ accepted! 
-* [Prsentation Template]({{site.baseurl}}/assets/Project_Materials/Template_Slides_Presentation.zip) You _can_ use other template as well
+<!-- * [Proposal Template]({{site.baseurl}}/assets/Project_Materials/Proposal_Template.zip) This is the template for project proposal. You _can_ use other template as well -->
+* [Report Template - _Mandatory_]({{site.baseurl}}/assets/Project_Materials/Project_Report_Template.zip): Other templates are __not__ accepted! 
+* [Prsentation Template - _Optional_]({{site.baseurl}}/assets/Project_Materials/Template_Slides_Presentation.zip) You _can_ use other template as well
 
 
 
