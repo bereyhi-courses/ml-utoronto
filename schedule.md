@@ -6,20 +6,112 @@ permalink: /schedule/
 
 
 # Course Calendar
-
-| Week # | Date              | Notes                              | Posted          | Deadline                                   |
-|------:|-------------------|------------------------------------|-----------------|--------------------------------------------|
-| 1     | Jan 05 – Jan 09   |                                    |                 |                                            |
-| 2     | Jan 12 – Jan 16   |                                    | Assignment 1    |                                            |
-| 3     | Jan 19 – Jan 23   |                                    |                 |                                            |
-| 4     | Jan 26 – Jan 30   |                                    | Assignment 2    | Assignment 1                               |
-| 5     | Feb 02 – Feb 06   |                                    |                 |                                            |
-| 6     | Feb 09 – Feb 13   |                                    | Assignment 3    | Assignment 2                               |
-| 7     | Feb 16 – Feb 20   | **Reading Week — No Lectures**     |                 |                                            |
-| 8     | Feb 23 – Feb 27   | **Midterm Exam on Feb 24**          |                 |                                            |
-| 9     | Mar 02 – Mar 06   |                                    | Assignment 4    | Assignment 3                               |
-| 10    | Mar 09 – Mar 13   |                                    |                 | **Project:** Proposal Submission           |
-| 11    | Mar 16 – Mar 20   |                                    | Assignment 5    | Assignment 4                               |
-| 12    | Mar 23 – Mar 27   |                                    |                 |                                            |
-| 13    | Mar 30 – Apr 03   |                                    |                 | Assignment 5                               |
-| 14    | Apr 06 – Apr 10   | **Examination Time — No Lectures**  | **Project:** Presentation | **Project:** Final Report and Source Codes |
+<table style="border-collapse: collapse; width: 98.2946%; height: 436px; margin-left: auto; margin-right: auto;" border="1">
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center; background-color: #ced4d9;"><strong>Week #</strong></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ced4d9;"><strong>Date</strong></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center; background-color: #ced4d9;"><strong>Notes</strong></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #ced4d9;"><strong>Posted</strong></td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #ced4d9;"><strong>Deadline</strong></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>1</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Jan 05 - Jan 09</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;"></td>
+        </tr>
+        <tr style="height: 30px;">
+            <td style="width: 5.4276%; height: 30px; text-align: center;"><em>2</em></td>
+            <td style="width: 12.6507%; height: 30px; text-align: center; background-color: #ecf0f1;"><em>Jan 12 - Jan 16</em></td>
+            <td style="width: 25.9434%; height: 30px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 30px; text-align: center; background-color: #c2e0f4;">Assignment 1</td>
+            <td style="width: 28.6721%; height: 30px; text-align: center; background-color: #bfedd2;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>3</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Jan 19 - Jan 23</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>4</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Jan 26 - Jan 30</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;">Assignment 2</td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;">Assignment 1</td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>5</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Feb 02 - Feb 06</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
+            <td style="width: 28.6721%; height: 29px; background-color: #bfedd2; text-align: center;"><strong></strong></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>6</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Feb 09 - Feb 13</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;">Assignment 3</td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;">Assignment 2</td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center; background-color: #f8cac6;"><em>7</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #f8cac6;"><em>Feb 16 - Feb 20</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center; background-color: #f8cac6;"><strong><em>Reading Week-- No Lectures</em></strong></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #f8cac6;"></td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #f8cac6;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>8</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Feb 23 - Feb 27</em></td>
+            <td style="width: 25.9434%; height: 29px; background-color: #fbeeb8; text-align: center;"><strong><em>Midterm Exam on Feb 24</em></strong></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
+            <td style="width: 28.6721%; height: 29px; background-color: #bfedd2; text-align: center;"><em>&nbsp;</em></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; background-color: #ffffff; text-align: center;"><em>9</em></td>
+            <td style="width: 12.6507%; height: 29px; background-color: #ecf0f1; text-align: center;"><em>Mar 02 - Mar 06</em></td>
+            <td style="width: 25.9434%; height: 29px; background-color: #ffffff; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; background-color: #c2e0f4; text-align: center;">Assignment 4<em></em></td>
+            <td style="width: 28.6721%; height: 29px; background-color: #bfedd2; text-align: center;">Assignment 3</td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>10</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Mar 09 - Mar 13</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"><em>&nbsp;</em></td>
+            <td style="width: 28.6721%; height: 29px; background-color: #eccafa; text-align: center;"><strong>Project:</strong> <em>Proposal Submission<br /></em></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>11</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Mar 16 - Mar 20</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;">Assignment 5</td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;">Assignment 4<em></em></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>12</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Mar 23 - Mar 27</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center;"><em>13</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #ecf0f1;"><em>Mar 30 - Apr 03</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center;"></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #c2e0f4;"></td>
+            <td style="width: 28.6721%; height: 29px; text-align: center; background-color: #bfedd2;">Assignment 5</td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="width: 5.4276%; height: 29px; text-align: center; background-color: #eccafa;"><em>14</em></td>
+            <td style="width: 12.6507%; height: 29px; text-align: center; background-color: #eccafa;"><em>Apr 06 - Apr 10</em></td>
+            <td style="width: 25.9434%; height: 29px; text-align: center; background-color: #eccafa;"><strong><em>Examination Time -- No Lectures</em></strong></td>
+            <td style="width: 27.2275%; height: 29px; text-align: center; background-color: #eccafa;"><strong>Project: </strong><em>Presentation</em></td>
+            <td style="width: 28.6721%; height: 29px; background-color: #eccafa; text-align: center;"><strong>Project:</strong> <em>Final Report and Source Codes<br /></em></td>
+        </tr>
+    </tbody>
+</table>
