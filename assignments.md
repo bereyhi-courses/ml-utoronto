@@ -10,28 +10,28 @@ permalink: /assignments/
 </div>
 </p>
 
-As mentioned in the main page, the course will consists of 3 assignment sets. Each assignment includes Written Questions that are to be solved (or briefly answered), and Programming Tasks which are to be implemented in Python.
+As mentioned in the main page, the course will consists of 5 assignment sets. Each assignment includes Written Questions that are to be solved (or briefly answered), and Programming Tasks which are to be implemented in Python.
 
-## Assignment Releases
-### Assignment 1: Fundamentals of Deep Learning
+<!-- ## Assignment Releases -->
+<!-- ### Assignment 1: Fundamentals of Deep Learning
 - [Assignment 1]({{site.baseurl}}/assignments/01_assignment1) has been posted on _September 12, 2025_ 
 - Deadline is on __September 26, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
-### Assignment 2: Feedforward Neural Networks
+<!-- ### Assignment 2: Feedforward Neural Networks
 - [Assignment 2]({{site.baseurl}}/assignments/03_assignment2) has been posted on _September 30, 2025_ 
 - Deadline is on __October 15, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
-### Assignment 3: CNNs and ResNets
+<!-- ### Assignment 3: CNNs and ResNets
 - [Assignment 3]({{site.baseurl}}/assignments/04_assignment3) has been posted on _October 20, 2025_ 
 - Deadline is on __November 12, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
-### Assignment 4: Sequence Models
+<!-- ### Assignment 4: Sequence Models
 - [Assignment 4]({{site.baseurl}}/assignments/05_assignment4) has been posted on _November 15, 2025_ 
 - Deadline is on __November 29, 2025__ at __11:59 PM EST__
-- Up to 2 days delay with __10% deduction__ per day
+- Up to 2 days delay with __10% deduction__ per day -->
 
 
 ## How to Submit
@@ -44,7 +44,7 @@ On Crowdmark, please submit the answer of each question separately, following th
 - For Programming Questions, please print __your code and the requested outputs__ as a .pdf file and upload it in the answer field of the corresponding question on Crowdmark. Your uploaded .pdf should contain __all figures, diagrams and codes that are requested in the question.__ 
 
 - The source codes should also be submitted as a __single .zip file__ attached to the last item on Crowdmark.
-    - Please set the file name  __Lastname_Firstname_Assgn#.ipynb__
+    - Please set the file name  __Lastname_Firstname_Assgn#.ipynb__ or __Lastname_Firstname_Assgn#.zip__
     - Please make sure to name the files with the name that is displayed on the __Quercus account__
 
  
@@ -52,7 +52,5 @@ On Crowdmark, please submit the answer of each question separately, following th
 The deadlines are very strict and cannot be extended for the sake of fairness
 
 - The deadline is specified on the Assignment file
-- You might be permitted to submit with up to 2 days delay; however, for each day of delay __10% of the total mark (after correction)__ will be deducted
-    - The deduction is computed __per day not hourly__
-    - You __cannot__ submit the assignment in two parts
-    - In case of multiple submissions __the last one counts__
+- __No late submission__ is accepted
+
