@@ -1,0 +1,93 @@
+# schedule
+day1: Tuesdays
+time1: 5 PM - 7 PM
+loc1: <strong>BA-1170</strong> - <em>Bahen Centre for Information Technology</em>
+
+day2: Thursdays
+time2: 5 PM - 6 PM
+loc2: <strong>MC-252</strong> - <em>Mechanical Engineering Building</em>
+
+dayTut: Thursdays
+timeTut: 6 PM - 7 PM
+locTut: <strong>MC-252</strong> - <em>Mechanical Engineering Building</em>
+
+start_date: January 6, 2025
+start_description: Please note that the lecture halls are different in Tuesdays and Thursdays.
+
+start_dateTut: January 15, 2025
+
+dayOffice: Thursdays 
+timeOffice: 12 PM - 1 PM
+
+# Site settings
+course_name: Introduction to Machine Learning
+course_description: "This course provides a concrete understanding of fundamentals of machine learning. The course gives an overall viewpoint on the vast area of machine learning and touches the fundamental concepts in supervised and unsupervised learning. The course follows a statistical viewpoint on machine learning and its implications in applied topics. Note that the course aims to cover topics in Machine Learning from a statistical perspective and does not target the computational viewpoint in Deep Learning. Deep learning and neural networks are introduced and discussed in this course; however, their detailed investigation is covered in a separate course, i.e., ECE1508: Applied Deep Learning."
+course_semester: "Winter 2026"
+
+
+assgn_mark: 45%
+assgn_desc: "5 assignment sets"
+assgn_txt: "There will be five set of assignments. The assignments will count roughly for 45% of your final mark and are a part of the learning procedure. Therefore, solving them is necessary at each part of the course to understand the next parts properly."
+
+exam_mark: 30%
+exam_desc: "midterm exam"
+exam_txt: "In the first week after the reading week, there will be an exam. The exam will ask questions on theory. There will be no programming questions in the exam. The exam will only evaluate the understanding of fundamental concepts through questions that can be either explained in words or solved simply by hand. This exam will comprise 30% of the total mark."
+
+project_mark: 25%
+project_desc: "open-ended"
+project_txt: "The project will be in groups of 3. Each group proposes its own problem that is to be solved by Machine Learning by Week 9. The group will then work on the project towards the end of the semester and submit the final report by the last week. This part will be 25% of the total mark, and plays the role of a final evaluation for this course."
+
+
+baseurl: "/ml-utoronto" # the subpath of your site, e.g. /blog/
+url: "https://bereyhi-courses.github.io/" # the base hostname & protocol for your site
+
+schoolname: "University of Toronto"
+schoolurl: "https://www.ece.utoronto.ca"
+personal_page: "bereyhi.com"
+
+address: |
+    The Edward S. Rogers Sr. Department of Electrical and Computer Engineering
+    University of Toronto
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+minima:
+  include_css:
+    - /assets/css/custom.css
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include:
+  - assets
+  - _images
+  - _css
+
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
