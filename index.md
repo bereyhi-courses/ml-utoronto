@@ -4,6 +4,8 @@ layout: home
 
 
 For the Quercus page of the course please [click here](https://q.utoronto.ca/courses/419528)
+* All announcement will be sent through [Quercus](https://q.utoronto.ca/courses/419528)
+* You can access the Crowdmark and Piazza page of the course through [Quercus](https://q.utoronto.ca/courses/419528)
 
 <!-- ## Final Project Submission and Presentation -->
 
