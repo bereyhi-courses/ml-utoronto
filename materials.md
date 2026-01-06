@@ -6,6 +6,8 @@ permalink: /materials/
 
 ## Lecture Notes
 The lecture notes are uploaded through the semester. 
+[Lecture 0]({{site.baseurl}}/assets/Notes/Lecture0.pdf): _Logistics_
+[Lecture 1]({{site.baseurl}}/assets/Notes/Lecture1.pdf): _Preliminaries and Clustering_
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
