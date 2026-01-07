@@ -61,7 +61,7 @@ The following textbook is a good resource for __practicing programming.__
 This section will be completed gradually through the semester.
 
 ### Introduction
-* Introduction to ML, _Chapter 1 - Sections 1.1 and 1.3_ of[[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Introduction to ML, _Chapter 1 - Sections 1.1 and 1.3_ of [[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
 * Different Domains of ML, _Chapter 1, Chapter 2 - Sections 2.1 and 2.2, Chapter 14 - Sections 14.1 and 14.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 
 

@@ -63,8 +63,10 @@ The following rules are to be followed for full credit
     </li>
     <li>
       A final report (maximum <em>5 pages</em>) must be submitted in a PDF format. The report must be written in the provided formal style, including an abstract, introduction, method, experiments, results, and conclusion.<br>
-      <strong>Important:</strong> Please make sure to complete the sections <em>Teamwork Attestation, Consent for Information Sharing, AI Attestation.</em>
-      <strong>Important:</strong> Submissions that <strong>do not use template</strong> are considered <strong>incomplete.</strong>
+      <ul>
+        <li><strong>Important:</strong> Please make sure to complete the sections <em>Teamwork Attestation, Consent for Information Sharing, AI Attestation.</em></li>
+        <li><strong>Important:</strong> Submissions that <strong>do not use template</strong> are considered <strong>incomplete.</strong></li>
+      </ul>
     </li>
     <li>
       A 5-minute presentation is given on the second week of April, i.e., <em>April 6 to 10,</em> by the group.
