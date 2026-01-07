@@ -4,10 +4,13 @@ title: Materials
 permalink: /materials/
 ---
 
+## Textbook _Learning Machine Learning_
+The course instructors __Prof. Salma Emara__ and __Prof. Ali Bereyhi__ have recently developed the textbook _Learning Machine Learning._ The first edition can be accessed [this link.](https://alberey.github.io/ml-book-ed1) In case of suggestions or feedback, please feel free to reach out. 
+
 ## Lecture Notes
 The lecture notes are uploaded through the semester. 
-[Lecture 0]({{site.baseurl}}/assets/Notes/Lecture0.pdf): _Logistics_
-[Lecture 1]({{site.baseurl}}/assets/Notes/Lecture1.pdf): _Preliminaries and Clustering_
+* [Lecture 0]({{site.baseurl}}/assets/Notes/Lecture0.pdf): _Logistics_
+* [Lecture 1]({{site.baseurl}}/assets/Notes/Lecture1.pdf): _Preliminaries and Clustering_
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
@@ -39,7 +42,10 @@ The tutorial notebooks can be accessed below.
 
 ## Book
 
-We use various textbooks in the course. The following textbooks have covered the key notions in the course. 
+We use various textbooks in the course. The main text for the course is 
+* [[EB] Emara, Salma and Bereyhi, Ali. _Learning Machine Learning._ First Edition, 2026.](https://alberey.github.io/ml-book-ed1) 
+
+The following textbooks have further covered the key notions in the course, and are cited in the lecture notes:
 
 * [[B] Bishop, Christopher M. _Pattern Recognition and Machine Learning._ Springer Nature, 2006.](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
 * [[HTF] Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome. _The Elements of Statistical Learning._ Springer, Second Edition, 2009.](https://hastie.su.domains/ElemStatLearn/)
