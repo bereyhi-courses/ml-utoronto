@@ -9,8 +9,10 @@ The course instructors __Prof. Salma Emara__ and __Prof. Ali Bereyhi__ have rece
 
 ## Lecture Notes
 The lecture notes are uploaded through the semester. 
+### Week 1
 * [Lecture 0]({{site.baseurl}}/assets/Notes/Lecture0.pdf): _Logistics_
 * [Lecture 1]({{site.baseurl}}/assets/Notes/Lecture1.pdf): _Preliminaries and Clustering_
+* [Lecture 2]({{site.baseurl}}/assets/Notes/Lecture2.pdf): _Revisiting Clustering with Notion of Risk_
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
