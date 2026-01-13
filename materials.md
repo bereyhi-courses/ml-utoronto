@@ -14,6 +14,9 @@ The lecture notes are uploaded through the semester.
 * [Lecture 1]({{site.baseurl}}/assets/Notes/Lecture1.pdf): _Preliminaries and Clustering_
 * [Lecture 2]({{site.baseurl}}/assets/Notes/Lecture2.pdf): _Revisiting Clustering with Notion of Risk_
 
+### Week 2
+* [Lecture 3]({{site.baseurl}}/assets/Notes/Lecture0.pdf): _Probabilistic Modeling and Distribution Learning_
+
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
 
