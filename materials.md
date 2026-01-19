@@ -71,9 +71,21 @@ This section will be completed gradually through the semester.
 
 
 ### Clustering
-#### K-Means Clustering
 * Clustering, _Chapter 20_ of [[MK]](https://www.inference.org.uk/mackay/itila/book.html)
 * K-means Clustering, _Chapter 9 - Section 9.1_ of[[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
 * Clustering, _Chapter 14 - Section 14.3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+
+### Probabilistic Modeling and Maximum Likelihood
+
+#### Maximum Likelihood
+* Maximum Likelihood, _Chapter 8_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+* More on Probabilistic Modeling, _Chapter 23_ of [[MK]](https://www.inference.org.uk/mackay/itila/book.html)
+
+#### Connections to Clustering
+* Maximum Likelihood and Clustering, _Chapter 22_ of [[MK]](https://www.inference.org.uk/mackay/itila/book.html)
+
+
+#### Gaussian Maximum Likelihood
+* Gaussian Max-Likelihood, _Chapter 2 - Sections 2.1 and 2.3_ of [[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
 
 
