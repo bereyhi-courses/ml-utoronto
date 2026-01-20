@@ -17,6 +17,9 @@ The lecture notes are uploaded through the semester.
 ### Week 2
 * [Lecture 3]({{site.baseurl}}/assets/Notes/Lecture3.pdf): _Probabilistic Modeling and Distribution Learning_
 
+### Week 3
+* [Lecture 4]({{site.baseurl}}/assets/Notes/Lecture4.pdf): _Principal Component Analysis_
+
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
 
