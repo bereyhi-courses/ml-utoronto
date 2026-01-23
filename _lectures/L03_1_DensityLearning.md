@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-01-13T17:00:00
-title: "Lecture 3: Density Learning and Maximum Likelihood"
+title: "Lecture 3 - Part I: Density Learning and Maximum Likelihood"
 tldr: "Max-Likelihood"
 stat: lec
 # for lectures stat: lec

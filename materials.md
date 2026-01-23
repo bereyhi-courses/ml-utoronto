@@ -37,7 +37,7 @@ The lecture notes are uploaded through the semester.
 ## Tutorial Notebooks
 The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_01.ipynb): Basic Libraries for ML in Python and K-means Clustering, by __James Zhu__ - [Watch the Video](https://play.library.utoronto.ca/watch/2a7ab26d056175f4ecdf9bcfc66a10f7)
-<!-- * [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Intro to PyTorch, Auto-grad, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/a5ad772e800fc000c61aaea3a2f3a510) -->
+* [Tutorial 2](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial2-PyTorch.ipynb): Density Learning and Maximum Likeihood, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/292fe27a497a19474d08a827e022ddfc)
 <!-- * [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6) -->
 <!-- * [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720) -->
 <!-- * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3) -->
@@ -56,7 +56,7 @@ We use various textbooks in the course. The main text for the course is
 
 The following textbooks have further covered the key notions in the course, and are cited in the lecture notes:
 
-* [[B] Bishop, Christopher M. _Pattern Recognition and Machine Learning._ Springer Nature, 2006.](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* [[B] Bishop, Christopher M. _Pattern Recognition and Machine Learning._ Springer Nature, 2006.](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
 * [[HTF] Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome. _The Elements of Statistical Learning._ Springer, Second Edition, 2009.](https://hastie.su.domains/ElemStatLearn/)
 * [[MK] MacKay, David. _Information Theory, Inference, and Learning Algorithms._ Cambridge, Version 7.2, 2005.](https://www.inference.org.uk/mackay/itila/book.html)
 
@@ -70,13 +70,13 @@ The following textbook is a good resource for __practicing programming.__
 This section will be completed gradually through the semester.
 
 ### Introduction
-* Introduction to ML, _Chapter 1 - Sections 1.1 and 1.3_ of [[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
-* Different Domains of ML, _Chapter 1, Chapter 2 - Sections 2.1 and 2.2, Chapter 14 - Sections 14.1 and 14.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+* Introduction to ML, _Chapter 1 - Sections 1.1 and 1.3_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Different Domains of ML, _Chapter 1, Chapter 2 - Sections 2.1 and 2.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 
 
 ### Clustering
 * Clustering, _Chapter 20_ of [[MK]](https://www.inference.org.uk/mackay/itila/book.html)
-* K-means Clustering, _Chapter 9 - Section 9.1_ of[[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* K-means Clustering, _Chapter 9 - Section 9.1_ of[[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
 * Clustering, _Chapter 14 - Section 14.3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 
 ### Probabilistic Modeling and Maximum Likelihood
@@ -90,6 +90,23 @@ This section will be completed gradually through the semester.
 
 
 #### Gaussian Maximum Likelihood
-* Gaussian Max-Likelihood, _Chapter 2 - Sections 2.1 and 2.3_ of [[B]](https://[www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Gaussian Max-Likelihood, _Chapter 2 - Sections 2.1 and 2.3_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+
+### Principal Component Analysis
+
+#### PCA Algorithm
+* PCA, _Chapter 12_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* PCA, _Chapter 14_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+
+#### Latent Space Design
+* Latent Space, _Chapter 34_ of [[MK]](https://www.inference.org.uk/mackay/itila/book.html)
+
+#### Maximum Likelihood Interpretation
+* [Probabilistic PCA](https://academic.oup.com/jrsssb/article/61/3/611/7083217), Paper _Probabilistic Principal Component Analysis_ written by _Michael E. Tipping and Christopher M. Bishop_ in 1999 giving the statistical viewpoint on PCA
+
+#### Applications of PCA
+* [Eigenface](https://direct.mit.edu/jocn/article/3/1/71/3025/Eigenfaces-for-Recognition), Paper _Eigenfaces for Recognition_ written by _Matthew Turk and Alex Pentland_ in 1991 on Using PCA for Face Recognition
+* [Recommendation System](https://ieeexplore.ieee.org/abstract/document/5197422), Paper _Matrix Factorization Techniques for Recommender Systems_ written by _Yehuda Koren et al._ in 2009 On Netflix Prize Winner Project
+
 
 

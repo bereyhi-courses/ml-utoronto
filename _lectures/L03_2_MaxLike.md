@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2026-01-13T18:00:00
-title: "Lecture 4: Gaussian Maximum Likelihood"
+title: "Lecture 3 - Part II: Gaussian Maximum Likelihood"
 tldr: "Clustering"
 stat: lec
 # for lectures stat: lec
