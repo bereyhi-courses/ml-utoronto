@@ -21,6 +21,10 @@ The lecture notes are uploaded through the semester.
 * [Lecture 4]({{site.baseurl}}/assets/Notes/Lecture4.pdf): _Principal Component Analysis_
 * [Lecture 5]({{site.baseurl}}/assets/Notes/Lecture5.pdf): _PCA Algorithm, Meaning, and Applications_
 
+### Week 4
+* [Lecture 6]({{site.baseurl}}/assets/Notes/Lecture6.pdf): _Linear Regression_
+
+
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
 
