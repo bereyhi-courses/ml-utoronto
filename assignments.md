@@ -41,11 +41,8 @@ On Crowdmark, please submit the answer of each question separately, following th
 
 - For Written Questions, you can submit handwritten or typed answers as a .pdf , .jpg or .png file.
 
-- For Programming Questions, please print __your code and the requested outputs__ as a .pdf file and upload it in the answer field of the corresponding question on Crowdmark. Your uploaded .pdf should contain __all figures, diagrams and codes that are requested in the question.__ 
+- For Programming Questions, please print __your code and the requested outputs__ as a .pdf file and upload __together with the code (.py file)__ in the answer field of the corresponding question on Crowdmark. Your uploaded .pdf should contain __all figures, diagrams and codes that are requested in the question.__ 
 
-- The source codes should also be submitted as a __single .zip file__ attached to the last item on Crowdmark.
-    - Please set the file name  __Lastname_Firstname_Assgn#.ipynb__ or __Lastname_Firstname_Assgn#.zip__
-    - Please make sure to name the files with the name that is displayed on the __Quercus account__
 
  
 
