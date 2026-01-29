@@ -23,6 +23,7 @@ The lecture notes are uploaded through the semester.
 
 ### Week 4
 * [Lecture 6]({{site.baseurl}}/assets/Notes/Lecture6.pdf): _Linear Regression_
+* [Lecture 7]({{site.baseurl}}/assets/Notes/Lecture7.pdf): _Classification and Logistic Regression_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
