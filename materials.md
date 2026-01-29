@@ -42,14 +42,7 @@ The lecture notes are uploaded through the semester.
 The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_01.ipynb): Basic Libraries for ML in Python and K-means Clustering, by __James Zhu__ - [Watch the Video](https://play.library.utoronto.ca/watch/2a7ab26d056175f4ecdf9bcfc66a10f7)
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_02.ipynb) Density Learning and Maximum Likeihood, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/292fe27a497a19474d08a827e022ddfc)
-<!-- * [Tutorial 3](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/blob/main/Tutorial_Notebooks/Tutorial3-Overfitting%2C%20Dropout%2C%20BatchNorm%2C%20L1%20and%20L2%20Regularization.ipynb): Underfitting and Overfitting: How to Prevent Them, by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/b9c9fc747655d341a11400fa42cd85b6) -->
-<!-- * [Tutorial 4](https://github.com/seyedsaleh/AplDL-tutorials-ece1508/tree/main/Tutorial_Notebooks/Tutorial4-CNN%2C%20AlexNet%20in%20PyTorch): CNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/5814f9ece8b5d1687112f32649621720) -->
-<!-- * [Tutorial 5](https://q.utoronto.ca/courses/396459/modules): Midterm Review by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/d095763335f9139a5e7d99501e07cfd3) -->
-<!-- * [Tutorial 6](https://q.utoronto.ca/courses/396459/modules): ResNet by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/515c9ee8c3a9d1f64a51377c68009a0d) -->
-<!-- * [Tutorial 7](https://q.utoronto.ca/courses/396459/modules): RNNs by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/315c11f3172eb92eb08c222645bad5f3) -->
-<!-- * [Tutorial 8](https://q.utoronto.ca/courses/396459/modules): Sequence Models by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/f0d28f4da270c61f7901555434ec0a42) -->
-<!-- * [Tutorial 9](https://q.utoronto.ca/courses/396459/modules): Autoencoders by __Saleh Tabatabaei__ [Watch the Video](https://play.library.utoronto.ca/watch/87336a08b49ffa94c6b5ad6a7863b033) -->
-
+* [Tutorial 3]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA, by __James Zhu__ 
 
 
 
