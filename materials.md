@@ -43,7 +43,9 @@ The lecture notes are uploaded through the semester.
 The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_01.ipynb): Basic Libraries for ML in Python and K-means Clustering, by __James Zhu__ - [Watch the Video](https://play.library.utoronto.ca/watch/2a7ab26d056175f4ecdf9bcfc66a10f7)
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_02.ipynb) Density Learning and Maximum Likeihood, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/292fe27a497a19474d08a827e022ddfc)
-* [Tutorial 3]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA, by __James Zhu__ 
+* [Tutorial 3 - Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_03_Linear_Algebra.pdf) [Tutorial 3 - Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA and Linear Algebra Review, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/4a1960c44c0933336a33eb81162e235b)
+
+
 
 
 
@@ -106,5 +108,18 @@ This section will be completed gradually through the semester.
 * [Eigenface](https://direct.mit.edu/jocn/article/3/1/71/3025/Eigenfaces-for-Recognition), Paper _Eigenfaces for Recognition_ written by _Matthew Turk and Alex Pentland_ in 1991 on Using PCA for Face Recognition
 * [Recommendation System](https://ieeexplore.ieee.org/abstract/document/5197422), Paper _Matrix Factorization Techniques for Recommender Systems_ written by _Yehuda Koren et al._ in 2009 On Netflix Prize Winner Project
 
+### Supervised Learning
+
+#### Risk Minimization vs Maximum Likelihood
+* [Overview on Risk Minimization](https://ieeexplore.ieee.org/abstract/document/788640): Paper _An overview of statistical learning theory_ published by Vladimir N. Vapnik as an overview of his life-going developments in ML in the _IEEE Transactions on Neural Networks_ in 1999
+
+#### Linear Regression
+* Linear Regression, _Chapter 3_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Linear Regression, _Chapter 3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+* Maximum Likelihood View on Regression, _Chapters 11 and 12_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
 
 
+#### Logistic Regression
+* Logistic Regression, _Chapter 4_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Linear Classification, _Chapter 4_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+* Maximum Likelihood View on Classification, _Chapter 10_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)

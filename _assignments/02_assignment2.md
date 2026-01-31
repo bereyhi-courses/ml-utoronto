@@ -1,0 +1,13 @@
+---
+type: assignment
+date: 2026-01-29T01:00:00
+title: 'Assignment #2 - PCA and Linear Regression'
+# pdf: 
+link: https://app.crowdmark.com/student/assessments/assignment-2-pca-and-regression
+# solutions: /static_files/assignments/asg_solutions.pdf
+due_event: 
+    type: due
+    date: 2026-02-12T23:59:59
+    description: 'Assignment #2 due'
+---
+Please submit through the [provided Crowdmark link](https://app.crowdmark.com/student/assessments/assignment-2-pca-and-regression)

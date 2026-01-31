@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-13T17:00:00
+date: 2026-01-22T17:00:00
 title: "Lecture 5: Deriving PCA and Its Applications"
 tldr: "PCA"
 stat: lec

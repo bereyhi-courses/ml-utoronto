@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-13T17:00:00
+date: 2026-01-20T17:00:00
 title: "Lecture 4 - Part II: PCA as Maximal Representation Variance"
 tldr: "PCA"
 stat: lec

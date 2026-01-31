@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-01-13T17:00:00
+date: 2026-01-20T17:00:00
 title: "Lecture 4 - Part I: Dimensionality Reduction and PCA"
 tldr: "PCA"
 stat: lec
