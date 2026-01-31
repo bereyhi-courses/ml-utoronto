@@ -18,7 +18,7 @@ As mentioned in the main page, the course will consists of 5 assignment sets. Ea
 - Deadline is on __January 29, 2026__ at __11:59 PM EST__
 
 ### Assignment 2: PCA and Linear Regression
-- [Assignment 2]({{site.baseurl}}/assignments/03_assignment2) has been posted on _January 29, 2026_ 
+- [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _January 29, 2026_ 
 - Deadline is on __February 12, 2026__ at __11:59 PM EST__
 
 <!-- ### Assignment 3: CNNs and ResNets
