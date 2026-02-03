@@ -25,6 +25,9 @@ The lecture notes are uploaded through the semester.
 * [Lecture 6]({{site.baseurl}}/assets/Notes/Lecture6.pdf): _Linear Regression_
 * [Lecture 7]({{site.baseurl}}/assets/Notes/Lecture7.pdf): _Classification and Logistic Regression_
 
+### Week 5
+* [Lecture 8]({{site.baseurl}}/assets/Notes/Lecture6.pdf): _Classification with Confidence_
+
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
