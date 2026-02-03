@@ -26,7 +26,7 @@ The lecture notes are uploaded through the semester.
 * [Lecture 7]({{site.baseurl}}/assets/Notes/Lecture7.pdf): _Classification and Logistic Regression_
 
 ### Week 5
-* [Lecture 8]({{site.baseurl}}/assets/Notes/Lecture6.pdf): _Classification with Confidence_
+* [Lecture 8]({{site.baseurl}}/assets/Notes/Lecture8.pdf): _Classification with Confidence_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
