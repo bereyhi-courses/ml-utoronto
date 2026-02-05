@@ -27,6 +27,7 @@ The lecture notes are uploaded through the semester.
 
 ### Week 5
 * [Lecture 8]({{site.baseurl}}/assets/Notes/Lecture8.pdf): _Classification with Confidence_
+* [Lecture 9]({{site.baseurl}}/assets/Notes/Lecture9.pdf): _Support Vector Classifier_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
