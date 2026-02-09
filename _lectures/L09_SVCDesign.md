@@ -10,7 +10,7 @@ videoID: IHj0U-yvT3I
 hide_from_announcments: false
 ---
 **Lecture Notes:**
-- [Lecture 9]({{ site.baseurl }}/assets/Notes/Lecture9.pdf)
+- [Lecture 9]({{ site.baseurl }}/assets/Notes/Lecture9.pdf) 
 
 **Further Reads:**
 * SVC, _Chapter 12, Sections 12.1 and 12.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
