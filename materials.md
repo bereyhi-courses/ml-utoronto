@@ -48,6 +48,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 1]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_01.ipynb): Basic Libraries for ML in Python and K-means Clustering, by __James Zhu__ - [Watch the Video](https://play.library.utoronto.ca/watch/2a7ab26d056175f4ecdf9bcfc66a10f7)
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_02.ipynb) Density Learning and Maximum Likeihood, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/292fe27a497a19474d08a827e022ddfc)
 * [Tutorial 3 - Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_03_Linear_Algebra.pdf) [Tutorial 3 - Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA and Linear Algebra Review, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/4a1960c44c0933336a33eb81162e235b)
+* [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_04.ipynb) Linear and Logistic Regression, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/aa4258ab91dd8fa245ada645d9b903b0)
 
 
 
@@ -74,7 +75,7 @@ The following textbook is a good resource for __practicing programming.__
 This section will be completed gradually through the semester.
 
 ### Introduction
-* Introduction to ML, _Chapter 1 - Sections 1.1 and 1.3_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Introduction to ML, _Chapter 1 - Sections 1.1 and 1.3_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * Different Domains of ML, _Chapter 1, Chapter 2 - Sections 2.1 and 2.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 
 
@@ -94,12 +95,12 @@ This section will be completed gradually through the semester.
 
 
 #### Gaussian Maximum Likelihood
-* Gaussian Max-Likelihood, _Chapter 2 - Sections 2.1 and 2.3_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Gaussian Max-Likelihood, _Chapter 2 - Sections 2.1 and 2.3_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ### Principal Component Analysis
 
 #### PCA Algorithm
-* PCA, _Chapter 12_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* PCA, _Chapter 12_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * PCA, _Chapter 14_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 
 #### Latent Space Design
@@ -118,12 +119,20 @@ This section will be completed gradually through the semester.
 * [Overview on Risk Minimization](https://ieeexplore.ieee.org/abstract/document/788640): Paper _An overview of statistical learning theory_ published by Vladimir N. Vapnik as an overview of his life-going developments in ML in the _IEEE Transactions on Neural Networks_ in 1999
 
 #### Linear Regression
-* Linear Regression, _Chapter 3_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Linear Regression, _Chapter 3_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * Linear Regression, _Chapter 3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Maximum Likelihood View on Regression, _Chapters 11 and 12_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
 
 
 #### Logistic Regression
-* Logistic Regression, _Chapter 4_ of [[B]](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* Logistic Regression, _Chapter 4_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * Linear Classification, _Chapter 4_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Maximum Likelihood View on Classification, _Chapter 10_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+
+#### Support Vector Classifier
+* SVC, _Chapter 12, Sections 12.1 and 12.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+* Constrained Optimization, _Chapter 5_ of [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
+* [SVNets](https://link.springer.com/article/10.1007/Bf00994018) Paper _Support Vector Networks_ published by Cortes and Vapnik in 1995
+* [Tutorials on SVM](https://link.springer.com/article/10.1023/A:1009715923555) Survey _A Tutorial on Support Vector Machines for Pattern Recognition_ published by Burges in 1998
+
+
