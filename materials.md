@@ -29,6 +29,9 @@ The lecture notes are uploaded through the semester.
 * [Lecture 8]({{site.baseurl}}/assets/Notes/Lecture8.pdf): _Classification with Confidence_
 * [Lecture 9]({{site.baseurl}}/assets/Notes/Lecture9.pdf): _Support Vector Classifier_
 
+### Week 6
+* [Lecture 10]({{site.baseurl}}/assets/Notes/Lecture10.pdf): _Support Vector Machine and Kernel Method_
+
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
