@@ -31,6 +31,7 @@ The lecture notes are uploaded through the semester.
 
 ### Week 6
 * [Lecture 10]({{site.baseurl}}/assets/Notes/Lecture10.pdf): _Support Vector Machine and Kernel Method_
+* [Lecture 11]({{site.baseurl}}/assets/Notes/Lecture11.pdf): _Generalization and Gradient Descent_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
