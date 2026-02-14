@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-02-05T17:00:00
 title: "Lecture 9 - Support Vector Classification"
-tldr: "Regression"
+tldr: "SVC"
 stat: lec
 # for lectures stat: lec
 description: We solve the SVC design problem. We see that the model in this case is determined only by the support vectors. We further observe that the classification in this case is done by checking the cross-correlation. We also discuss the limitation of this design and explain how we can soften the margin, i.e. soft SVC.

@@ -53,7 +53,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_02.ipynb) Density Learning and Maximum Likeihood, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/292fe27a497a19474d08a827e022ddfc)
 * [Tutorial 3 - Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_03_Linear_Algebra.pdf) [Tutorial 3 - Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA and Linear Algebra Review, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/4a1960c44c0933336a33eb81162e235b)
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_04.ipynb) Linear and Logistic Regression, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/aa4258ab91dd8fa245ada645d9b903b0)
-
+* Tutorial 5 Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
 
 
 
@@ -65,7 +65,7 @@ We use various textbooks in the course. The main text for the course is
 
 The following textbooks have further covered the key notions in the course, and are cited in the lecture notes:
 
-* [[B] Bishop, Christopher M. _Pattern Recognition and Machine Learning._ Springer Nature, 2006.](https://www.bishopbook.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)/)
+* [[B] Bishop, Christopher M. _Pattern Recognition and Machine Learning._ Springer Nature, 2006.](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [[HTF] Hastie, Trevor and Tibshirani, Robert and Friedman, Jerome. _The Elements of Statistical Learning._ Springer, Second Edition, 2009.](https://hastie.su.domains/ElemStatLearn/)
 * [[MK] MacKay, David. _Information Theory, Inference, and Learning Algorithms._ Cambridge, Version 7.2, 2005.](https://www.inference.org.uk/mackay/itila/book.html)
 
@@ -133,10 +133,13 @@ This section will be completed gradually through the semester.
 * Linear Classification, _Chapter 4_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Maximum Likelihood View on Classification, _Chapter 10_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
 
-#### Support Vector Classifier
+#### Support Vector Machine
 * SVC, _Chapter 12, Sections 12.1 and 12.2_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Constrained Optimization, _Chapter 5_ of [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 * [SVNets](https://link.springer.com/article/10.1007/Bf00994018) Paper _Support Vector Networks_ published by Cortes and Vapnik in 1995
 * [Tutorials on SVM](https://link.springer.com/article/10.1023/A:1009715923555) Survey _A Tutorial on Support Vector Machines for Pattern Recognition_ published by Burges in 1998
 
 
+### Generalization and Gradient Descent
+* Model Assessment and Selection , _Chapter 7_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+* Gradient Descent, _Chapter 10: Section 10.10_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
