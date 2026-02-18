@@ -53,7 +53,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 2]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_02.ipynb) Density Learning and Maximum Likeihood, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/292fe27a497a19474d08a827e022ddfc)
 * [Tutorial 3 - Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_03_Linear_Algebra.pdf) [Tutorial 3 - Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA and Linear Algebra Review, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/4a1960c44c0933336a33eb81162e235b)
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_04.ipynb) Linear and Logistic Regression, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/aa4258ab91dd8fa245ada645d9b903b0)
-* [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_05.ipynb) [Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_05_LagrangeDualityReview.pdf)SVC + Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
+* [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_05.ipynb)  [Notes]({{site.baseurl}}/assets/Tutorials/Tutorial_05_LagrangeDualityReview.pdf)  SVC + Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
 
 
 ## Book
