@@ -56,8 +56,6 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_05.ipynb) [Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_05_LagrangeDualityReview.pdf)SVC + Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
 
 
-
-
 ## Book
 
 We use various textbooks in the course. The main text for the course is 
