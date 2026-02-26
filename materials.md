@@ -33,6 +33,13 @@ The lecture notes are uploaded through the semester.
 * [Lecture 10]({{site.baseurl}}/assets/Notes/Lecture10.pdf): _Support Vector Machine and Kernel Method_
 * [Lecture 11]({{site.baseurl}}/assets/Notes/Lecture11.pdf): _Generalization and Gradient Descent_
 
+### Week 7
+* Reading Week - _No Lecture_
+
+### Week 8
+* [Lecture 12]({{site.baseurl}}/assets/Notes/Lecture12.pdf): _Representation by Network of Neurons_
+
+
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
