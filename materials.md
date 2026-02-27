@@ -61,6 +61,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 3 - Slides]({{site.baseurl}}/assets/Tutorials/Tutorial_03_Linear_Algebra.pdf) [Tutorial 3 - Notebook]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_03.ipynb) PCA and Linear Algebra Review, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/4a1960c44c0933336a33eb81162e235b)
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_04.ipynb) Linear and Logistic Regression, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/aa4258ab91dd8fa245ada645d9b903b0)
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_05.ipynb)  [Notes]({{site.baseurl}}/assets/Tutorials/Tutorial_05_LagrangeDualityReview.pdf)  SVC + Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
+* [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_06.ipynb)  Introduction to PyTorch, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/9a5d959f32ab58347de85a74cfce5d14)
 
 
 ## Book
@@ -148,3 +149,9 @@ This section will be completed gradually through the semester.
 ### Generalization and Gradient Descent
 * Model Assessment and Selection , _Chapter 7_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Gradient Descent, _Chapter 10: Section 10.10_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+
+
+### Neural Networks
+#### Representation via NNs
+* NNs, _Chapter 5, Section 5.1_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* Intro to NNs, _Chapter 11, Sections 11.1 and 11.3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
