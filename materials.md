@@ -39,6 +39,9 @@ The lecture notes are uploaded through the semester.
 ### Week 8
 * [Lecture 12]({{site.baseurl}}/assets/Notes/Lecture12.pdf): _Representation by Network of Neurons_
 
+### Week 9
+* [Lecture 13]({{site.baseurl}}/assets/Notes/Lecture13.pdf): _NNs as Universal Approximators_
+
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
