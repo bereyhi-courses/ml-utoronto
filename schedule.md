@@ -153,12 +153,12 @@ permalink: /schedule/
         </tr>
         <tr style="height: 29px;">
             <td style="width: 19.773%; height: 29px; text-align: center; background-color: #c2e0f4;"><em>Assignment 4</em></td>
-            <td style="width: 37.1624%; height: 29px; background-color: #bfedd2; text-align: center;"><strong><em>Mar 03, 2026</em></strong></td>
-            <td style="width: 43.0673%; height: 29px; text-align: center; background-color: #c2e0f4;"><strong><span style="color: #e62429;"><em>Mar 17, 2026</em></span></strong></td>
+            <td style="width: 37.1624%; height: 29px; background-color: #bfedd2; text-align: center;"><strong><em>Mar 04, 2026</em></strong></td>
+            <td style="width: 43.0673%; height: 29px; text-align: center; background-color: #c2e0f4;"><strong><span style="color: #e62429;"><em>Mar 18, 2026</em></span></strong></td>
         </tr>
         <tr style="height: 29px;">
             <td style="width: 19.773%; height: 29px; text-align: center;"><em>Assignment 5</em></td>
-            <td style="width: 37.1624%; height: 29px; background-color: #bfedd2; text-align: center;"><strong><em>Mar 17, 2026</em></strong></td>
+            <td style="width: 37.1624%; height: 29px; background-color: #bfedd2; text-align: center;"><strong><em>Mar 18, 2026</em></strong></td>
             <td style="width: 43.0673%; height: 29px; text-align: center;"><strong><span style="color: #e62429;"><em>Mar 31, 2026</em></span></strong></td>
         </tr>
         <tr style="height: 29px;">

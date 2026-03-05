@@ -12,7 +12,7 @@ hide_from_announcments: false
 **Lecture Notes:**
 - [Lecture 13]({{ site.baseurl }}/assets/Notes/Lecture13.pdf) 
 
-<!-- **Further Reads:**
-* NNs, _Chapter 5, Section 5.1_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-* Intro to NNs, _Chapter 11, Sections 11.1 and 11.3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/) -->
+**Further Reads:**
+* [Expressiveness of NNs](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208): Paper _Multilayer feedforward networks are universal approximators_ published by Hornik et al in 1989
+* [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper Approximation by superpositions of a sigmoidal function published in Mathematics of Control, Signals and Systems by George V. Cybenko in 1989
 
