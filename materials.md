@@ -66,6 +66,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 4]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_04.ipynb) Linear and Logistic Regression, by __James Zhu__ [Watch the Video](https://play.library.utoronto.ca/watch/aa4258ab91dd8fa245ada645d9b903b0)
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_05.ipynb)  [Notes]({{site.baseurl}}/assets/Tutorials/Tutorial_05_LagrangeDualityReview.pdf)  SVC + Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_06.ipynb)  Introduction to PyTorch, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/9a5d959f32ab58347de85a74cfce5d14)
+* [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_07.ipynb)  Function Approximation by NNs, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/dd0c8c3ebe23dd14da2d9e7b9e589958)
 
 
 ## Book
@@ -164,3 +165,8 @@ This section will be completed gradually through the semester.
 #### Universal Approximation Theorem
 * [Expressiveness of NNs](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208): Paper _Multilayer feedforward networks are universal approximators_ published by Hornik et al in 1989
 * [Universal Approximation](https://link.springer.com/article/10.1007/BF02551274): Paper Approximation by superpositions of a sigmoidal function published in Mathematics of Control, Signals and Systems by George V. Cybenko in 1989
+
+#### Training NNs
+* Training NNs, _Chapter 5, Section 5.2_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* Fitting NNs, _Chapter 11, Section 11.4_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
+* Training NNs, _Chapters 13, Section 13.4_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
