@@ -162,7 +162,7 @@ This section will be completed gradually through the semester.
 #### Representation via NNs
 * NNs, _Chapter 5, Section 5.1_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * Intro to NNs, _Chapter 11, Sections 11.1 and 11.3_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
-* MNNs, _Chapters 13, Sections 13.1 and 13.2_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+* NNs, _Chapters 13, Sections 13.1 and 13.2_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
 
 #### Universal Approximation Theorem
 * [Expressiveness of NNs](https://www.sciencedirect.com/science/article/abs/pii/0893608089900208): Paper _Multilayer feedforward networks are universal approximators_ published by Hornik et al in 1989
@@ -172,3 +172,5 @@ This section will be completed gradually through the semester.
 * Training NNs, _Chapter 5, Section 5.2_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * Fitting NNs, _Chapter 11, Section 11.4_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Training NNs, _Chapters 13, Section 13.4_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+* Backpropagation, _Chapter 5, Section 5.3_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* Training NNs, _Chapters 13 and 14_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
