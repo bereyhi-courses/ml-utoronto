@@ -43,6 +43,8 @@ The lecture notes are uploaded through the semester.
 * [Lecture 13]({{site.baseurl}}/assets/Notes/Lecture13.pdf): _NNs as Universal Approximators_
 * [Lecture 14]({{site.baseurl}}/assets/Notes/Lecture14.pdf): _Learning via NNs - Part I_
 
+### Week 10
+* [Lecture 15]({{site.baseurl}}/assets/Notes/Lecture15.pdf): _Learning via NNs - Part II_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
