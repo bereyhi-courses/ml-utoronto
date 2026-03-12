@@ -45,6 +45,7 @@ The lecture notes are uploaded through the semester.
 
 ### Week 10
 * [Lecture 15]({{site.baseurl}}/assets/Notes/Lecture15.pdf): _Learning via NNs - Part II_
+* [Lecture 16]({{site.baseurl}}/assets/Notes/Lecture16.pdf): _Generalization_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
