@@ -70,6 +70,7 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 5]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_05.ipynb)  [Notes]({{site.baseurl}}/assets/Tutorials/Tutorial_05_LagrangeDualityReview.pdf)  SVC + Midterm Review, by __James Zhu__ Please check the sample exams on Quercus
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_06.ipynb)  Introduction to PyTorch, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/9a5d959f32ab58347de85a74cfce5d14)
 * [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_07.ipynb)  Function Approximation by NNs, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/dd0c8c3ebe23dd14da2d9e7b9e589958)
+* [Tutorial 8]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_08.ipynb)  MLPs, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/39d921a28cd0ee847001f7631ff16a3c)
 
 
 ## Book
