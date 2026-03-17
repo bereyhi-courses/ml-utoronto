@@ -47,6 +47,10 @@ The lecture notes are uploaded through the semester.
 * [Lecture 15]({{site.baseurl}}/assets/Notes/Lecture15.pdf): _Learning via NNs - Part II_
 * [Lecture 16]({{site.baseurl}}/assets/Notes/Lecture16.pdf): _Generalization_
 
+### Week 11
+* [Lecture 17]({{site.baseurl}}/assets/Notes/Lecture17.pdf): _Regularization and Convolution_
+
+
 
 <!-- ### Chapter 0: Course Overview and Logistics
 * [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
