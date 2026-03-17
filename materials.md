@@ -179,4 +179,12 @@ This section will be completed gradually through the semester.
 * Fitting NNs, _Chapter 11, Section 11.4_ of [[HTF]](https://hastie.su.domains/ElemStatLearn/)
 * Training NNs, _Chapters 13, Section 13.4_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
 * Backpropagation, _Chapter 5, Section 5.3_ of [[B]](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-* Training NNs, _Chapters 13 and 14_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+* Training NNs, _Chapters 13, Sections 13.1 to 13.4_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+
+### Regularization 
+* Regularization, _Chapter 13, Section 13.5_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+* Regularization, _Chapter 6_ of [[Deep Learning]](https://www.deeplearningbook.org/)
+
+### Convolutional NNs
+* CNNs, _Chapter 14_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
+* CNNs, _Chapter 9_ of [[Deep Learning]](https://www.deeplearningbook.org/)
