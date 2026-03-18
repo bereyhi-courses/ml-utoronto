@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2026-02-024T01:00:00
+date: 2026-02-24T01:00:00
 title: 'Project Proposal'
 # pdf: 
 link: https://app.crowdmark.com
