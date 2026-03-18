@@ -21,13 +21,13 @@ As mentioned in the main page, the course will consists of 5 assignment sets. Ea
 - [Assignment 2]({{site.baseurl}}/assignments/02_assignment2) has been posted on _January 29, 2026_ 
 - Deadline is on __February 12, 2026__ at __11:59 PM EST__
 
-### Assignment 3: SVM
+<!-- ### Assignment 3: SVM
 - [Assignment 3]({{site.baseurl}}/assignments/03_assignment3) has been posted on _February 12, 2026_ 
 - Deadline is on __March 03, 2026__ at __11:59 PM EST__
 
 ### Assignment 4: MLP
 - [Assignment 4]({{site.baseurl}}/assignments/04_assignment4) has been posted on _March 04, 2026_ 
-- Deadline is on __March 18, 2026__ at __11:59 PM EST__
+- Deadline is on __March 18, 2026__ at __11:59 PM EST__ -->
 
 
 
