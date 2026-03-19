@@ -49,6 +49,7 @@ The lecture notes are uploaded through the semester.
 
 ### Week 11
 * [Lecture 17]({{site.baseurl}}/assets/Notes/Lecture17.pdf): _Regularization and Convolution_
+* [Lecture 18]({{site.baseurl}}/assets/Notes/Lecture18.pdf): _CNNs and Sequence Models_
 
 
 

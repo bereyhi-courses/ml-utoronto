@@ -29,7 +29,9 @@ As mentioned in the main page, the course will consists of 5 assignment sets. Ea
 - [Assignment 4]({{site.baseurl}}/assignments/04_assignment4) has been posted on _March 04, 2026_ 
 - Deadline is on __March 18, 2026__ at __11:59 PM EST__
 
-
+### Assignment 5: CNNs
+- [Assignment 5]({{site.baseurl}}/assignments/06_assignment5) has been posted on _March 19, 2026_ 
+- Deadline is on __April 02, 2026__ at __11:59 PM EST__
 
 ## How to Submit
 We use [Crowdmark](https://crowdmark.com/), which has an easier interface and makes the chance of formatting mistakes less. When submitting, please make sure to follow the instructions below. Note that these instructions are __very important__ for correction and investigation of your submissions. Deviation from these instructions could lead to up to __10% deduction (per item).__
