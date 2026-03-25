@@ -6,7 +6,7 @@ tldr: "CNN II"
 stat: lec
 # for lectures stat: lec
 description:  We go over some deep CNNs and understand their detailed architectures. We then start the last part of the course, i.e. advances. As the first lecture in this part, we learn about sequence data and how we could process them.  
-videoID: 
+videoID: AqZs9O0benA 
 hide_from_announcments: false
 ---
 **Lecture Notes:**

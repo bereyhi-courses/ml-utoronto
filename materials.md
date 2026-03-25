@@ -191,3 +191,10 @@ This section will be completed gradually through the semester.
 ### Convolutional NNs
 * CNNs, _Chapter 14_ of [[Probabilistic ML Book]](https://probml.github.io/pml-book/)
 * CNNs, _Chapter 9_ of [[Deep Learning]](https://www.deeplearningbook.org/)
+
+
+## Advances in ML
+### Sequence Processing 
+* RNNs, _Chapter 10_ of [[Deep Learning]](https://www.deeplearningbook.org/)
+* [Basic LM](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) Paper A Neural Probabilistic Language Model published in 2003 by Y. Bengio developing frist really-functioning LM
+
