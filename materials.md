@@ -52,7 +52,8 @@ The lecture notes are uploaded through the semester.
 * [Lecture 18]({{site.baseurl}}/assets/Notes/Lecture18.pdf): _CNNs and Sequence Models_
 
 ### Week 12
-* [Lecture 19]({{site.baseurl}}/assets/Notes/Lecture19.pdf): _Sequence Models and Generative Models_
+* [Lecture 19]({{site.baseurl}}/assets/Notes/Lecture19.pdf): _Sequence Models_
+* [Lecture 20]({{site.baseurl}}/assets/Notes/Lecture20.pdf): _Generative Models_
 
 
 <!-- ### Chapter 0: Course Overview and Logistics
