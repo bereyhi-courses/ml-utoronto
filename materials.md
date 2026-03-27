@@ -56,16 +56,6 @@ The lecture notes are uploaded through the semester.
 * [Lecture 20]({{site.baseurl}}/assets/Notes/Lecture20.pdf): _Generative Models_
 
 
-<!-- ### Chapter 0: Course Overview and Logistics
-* [Handouts]({{site.baseurl}}/assets/Notes/CH0/CH0.pdf): All Sections included in a single file -->
-
-<!-- ### Chapter 1: Fundamentals of Deep Learning
-* [Section 1]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec1.pdf): Motivation to Learn DL
-* [Section 2]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec2.pdf): Learning from Data: _Basics_
-* [Section 3]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec3.pdf): Perceptron Machine
-* [Section 4]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec4.pdf): Deep Neural Networks
-* [Section 5]({{site.baseurl}}/assets/Notes/CH1/CH1_Sec5.pdf): Function Optimization -->
-
 
 
 
@@ -79,6 +69,8 @@ The tutorial notebooks can be accessed below.
 * [Tutorial 6]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_06.ipynb)  Introduction to PyTorch, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/9a5d959f32ab58347de85a74cfce5d14)
 * [Tutorial 7]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_07.ipynb)  Function Approximation by NNs, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/dd0c8c3ebe23dd14da2d9e7b9e589958)
 * [Tutorial 8]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_08.ipynb)  MLPs, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/39d921a28cd0ee847001f7631ff16a3c)
+* [Tutorial 9]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_09.ipynb)  Generalization, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/aaca1755e3c4f77da3834ea1026f034a)
+* [Tutorial 10]({{site.baseurl}}/assets/Tutorials/Tutorial_Notebook_10.ipynb)  CNNs, by __Mohammadreza Safavi__ [Watch the Video](https://play.library.utoronto.ca/watch/c1674734752556d89b8150063c4b1780)
 
 
 ## Book
@@ -198,4 +190,7 @@ This section will be completed gradually through the semester.
 ### Sequence Processing 
 * RNNs, _Chapter 10_ of [[Deep Learning]](https://www.deeplearningbook.org/)
 * [Basic LM](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) Paper A Neural Probabilistic Language Model published in 2003 by Y. Bengio developing frist really-functioning LM
+
+### Generative Modeling
+* Generative Models, _Chapter 20_ of [[Deep Learning]](https://www.deeplearningbook.org/)
 

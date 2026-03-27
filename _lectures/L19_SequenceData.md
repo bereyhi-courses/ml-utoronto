@@ -2,7 +2,7 @@
 type: lecture
 date: 2026-03-24T18:00:00
 title: "Lecture 19 - Introduction to Sequence Processing"
-tldr: "CNN II"
+tldr: "Sequences"
 stat: lec
 # for lectures stat: lec
 description: We briefly go over standard approaches to process data with neural networks. In this way, we understand the idea of RNNs and Transformers and their statistical meaning. We then learn what language models are. 
