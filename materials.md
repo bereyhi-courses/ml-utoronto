@@ -55,6 +55,9 @@ The lecture notes are uploaded through the semester.
 * [Lecture 19]({{site.baseurl}}/assets/Notes/Lecture19.pdf): _Sequence Models_
 * [Lecture 20]({{site.baseurl}}/assets/Notes/Lecture20.pdf): _Generative Models_
 
+### Week 13
+* [Lecture 21]({{site.baseurl}}/assets/Notes/Lecture21.pdf): _Reinforcement Learning_
+
 
 
 
@@ -193,4 +196,9 @@ This section will be completed gradually through the semester.
 
 ### Generative Modeling
 * Generative Models, _Chapter 20_ of [[Deep Learning]](https://www.deeplearningbook.org/)
+
+### Reinforcement Learning
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) by _Sutton and Barto_
+* [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) by _OpenAI_
+
 
